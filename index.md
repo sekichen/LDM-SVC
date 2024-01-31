@@ -11,6 +11,8 @@
 
 <div align="center">
 <h1>Seen singer conversion</h1>
+</div>
+<div align="left">
 <h2>Male to Male</h2>
 <h3>
   <br>Target singer: 
@@ -31,7 +33,7 @@
 </h3>
 </div> 
 
-<div align="center">
+<div align="left">
 <h2>Female to Male</h2>
 <h3>
 
@@ -52,7 +54,7 @@
     <audio src="samples/seen/F2M/4/F2M-0.wav" controls="controls"></audio> <br>
 </h3>
 </div> 
-<div align="center">
+<div align="left">
 <h2>Female to Female</h2>
 <h3>
 
@@ -73,7 +75,7 @@
     <audio src="samples/seen/F2F/4/F2F-0.wav" controls="controls"></audio> <br>
 </h3>
 </div> 
-<div align="center">
+<div align="left">
 <h2>Male to Female</h2>
 <h3>
 
@@ -96,6 +98,8 @@
 </div> 
 <div align="center">
 <h1>Unseen singer conversion</h1>
+</div>
+<div align="center">
 <h2>Male to Male</h2>
 <h3>
   <br>Target singer: 
@@ -116,7 +120,7 @@
 </h3>
 </div> 
 
-<div align="center">
+<div align="left">
 <h2>Female to Male</h2>
 <h3>
 
@@ -137,7 +141,7 @@
     <audio src="samples/unseen/F2M/4/F2M-0.wav" controls="controls"></audio> <br>
 </h3>
 </div> 
-<div align="center">
+<div align="left">
 <h2>Female to Female</h2>
 <h3>
 
@@ -158,7 +162,7 @@
     <audio src="samples/unseen/F2F/4/F2F-0.wav" controls="controls"></audio> <br>
 </h3>
 </div> 
-<div align="center">
+<div align="left">
 <h2>Male to Female</h2>
 <h3>
 
