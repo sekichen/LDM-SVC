@@ -73,6 +73,7 @@
     <audio src="samples/seen/F2F/4/F2F-0.wav" controls="controls"></audio> <br>
 </h3>
 </div> 
+<div align="center">
 <h2>Male to Female</h2>
 <h3>
 
@@ -93,7 +94,7 @@
     <audio src="samples/seen/M2F/4/M2F-0.wav" controls="controls"></audio> <br>
 </h3>
 </div> 
-
+<div align="center">
 <h1>Unseen singer conversion</h1>
 <h2>Male to Male</h2>
 <h3>
@@ -157,6 +158,7 @@
     <audio src="samples/unseen/F2F/4/F2F-0.wav" controls="controls"></audio> <br>
 </h3>
 </div> 
+<div align="center">
 <h2>Male to Female</h2>
 <h3>
 
