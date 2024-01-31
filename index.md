@@ -8,10 +8,11 @@
 <body>
 
 <br>
+<h1>Seen singer</h1>
+<h2>Male to Male</h2>
 <div align="center">
 <h3>
-<br>Seen singer<br>
-<br>Male to Male<br>
+
   <br>Target singer: 
     <audio src="samples/seen/M2M/ref/M2M-0.wav" controls="controls"></audio><br>
     Source singer: 
@@ -27,9 +28,62 @@
     <audio src="samples/seen/M2M/3/M2M-0.wav" controls="controls"></audio><br>
     + Singer Guidance 
     <audio src="samples/seen/M2M/4/M2M-0.wav" controls="controls"></audio> <br>
-    <!-- <audio src="https://github.com/zzftts/zzftts.github.io/raw/main/voice_conversion/sample3/convert/LJ033-0170.wav" controls="controls"></audio> 
-    <audio src="https://github.com/zzftts/zzftts.github.io/raw/main/voice_conversion/sample3/convert/LJ035-0157.wav" controls="controls"></audio> 
-    <audio src="https://github.com/zzftts/zzftts.github.io/raw/main/voice_conversion/sample3/convert/LJ036-0163.wav" controls="controls"></audio> 
-    <audio src="https://github.com/zzftts/zzftts.github.io/raw/main/voice_conversion/sample3/convert/LJ040-0175.wav" controls="controls"></audio> -->
+</h3>
+<h3>
+
+  <br>Target singer: 
+    <audio src="samples/seen/M2M/ref/M2M-1.wav" controls="controls"></audio><br>
+    Source singer: 
+    <audio src="samples/seen/M2M/src/M2M-1.wav" controls="controls"></audio><br>
+    <br> Converted wav: <br>
+    FastSVC: 
+    <audio src="samples/seen/M2M/0/M2M-1.wav" controls="controls"></audio>
+    DiffSVC:
+    <audio src="samples/seen/M2M/1/M2M-1.wav" controls="controls"></audio><br>
+    So-VITS-SVC: 
+    <audio src="samples/seen/M2M/2/M2M-1.wav" controls="controls"></audio>
+    + LDM:
+    <audio src="samples/seen/M2M/3/M2M-1.wav" controls="controls"></audio><br>
+    + Singer Guidance 
+    <audio src="samples/seen/M2M/4/M2M-1.wav" controls="controls"></audio> <br>
+</h3>
+</div> 
+<h2>Female to Male</h2>
+<div align="center">
+<h3>
+
+  <br>Target singer: 
+    <audio src="samples/seen/F2M/ref/F2M-0.wav" controls="controls"></audio><br>
+    Source singer: 
+    <audio src="samples/seen/F2M/src/F2M-0.wav" controls="controls"></audio><br>
+    <br> Converted wav: <br>
+    FastSVC: 
+    <audio src="samples/seen/F2M/0/F2M-0.wav" controls="controls"></audio>
+    DiffSVC:
+    <audio src="samples/seen/F2M/1/F2M-0.wav" controls="controls"></audio><br>
+    So-VITS-SVC: 
+    <audio src="samples/seen/F2M/2/F2M-0.wav" controls="controls"></audio>
+    + LDM:
+    <audio src="samples/seen/F2M/3/F2M-0.wav" controls="controls"></audio><br>
+    + Singer Guidance 
+    <audio src="samples/seen/F2M/4/F2M-0.wav" controls="controls"></audio> <br>
+</h3>
+<h3>
+
+  <br>Target singer: 
+    <audio src="samples/seen/F2M/ref/F2M-1.wav" controls="controls"></audio><br>
+    Source singer: 
+    <audio src="samples/seen/F2M/src/F2M-1.wav" controls="controls"></audio><br>
+    <br> Converted wav: <br>
+    FastSVC: 
+    <audio src="samples/seen/F2M/0/F2M-1.wav" controls="controls"></audio>
+    DiffSVC:
+    <audio src="samples/seen/F2M/1/F2M-1.wav" controls="controls"></audio><br>
+    So-VITS-SVC: 
+    <audio src="samples/seen/F2M/2/F2M-1.wav" controls="controls"></audio>
+    + LDM:
+    <audio src="samples/seen/F2M/3/F2M-1.wav" controls="controls"></audio><br>
+    + Singer Guidance 
+    <audio src="samples/seen/F2M/4/F2M-1.wav" controls="controls"></audio> <br>
 </h3>
 </div> 
