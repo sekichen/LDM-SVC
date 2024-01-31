@@ -31,7 +31,7 @@
     + Singer Guidance 
     <audio src="samples/seen/M2M/4/M2M-0.wav" controls="controls"></audio> <br><br>
 </h3>
-</div> 
+</div> <br><br>
 
 <div align="left">
 <h2>Female to Male</h2>
@@ -53,7 +53,7 @@
     + Singer Guidance 
     <audio src="samples/seen/F2M/4/F2M-0.wav" controls="controls"></audio> <br><br>
 </h3>
-</div> 
+</div> <br><br>
 <div align="left">
 <h2>Female to Female</h2>
 <h3>
@@ -74,7 +74,7 @@
     + Singer Guidance 
     <audio src="samples/seen/F2F/4/F2F-0.wav" controls="controls"></audio> <br><br>
 </h3>
-</div> 
+</div> <br><br>
 <div align="left">
 <h2>Male to Female</h2>
 <h3>
@@ -118,7 +118,7 @@
     + Singer Guidance 
     <audio src="samples/unseen/M2M/4/M2M-0.wav" controls="controls"></audio> <br><br>
 </h3>
-</div> 
+</div> <br><br>
 
 <div align="left">
 <h2>Female to Male</h2>
@@ -140,7 +140,7 @@
     + Singer Guidance 
     <audio src="samples/unseen/F2M/4/F2M-0.wav" controls="controls"></audio> <br><br>
 </h3>
-</div> 
+</div> <br><br>
 <div align="left">
 <h2>Female to Female</h2>
 <h3>
@@ -162,6 +162,7 @@
     <audio src="samples/unseen/F2F/4/F2F-0.wav" controls="controls"></audio> <br><br>
 </h3>
 </div> 
+<br><br>
 <div align="left">
 <h2>Male to Female</h2>
 <h3>
