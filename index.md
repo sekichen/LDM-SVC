@@ -10,7 +10,7 @@
 <br>
 
 <div align="center">
-<h1>Seen singer</h1>
+<h1>Seen singer conversion</h1>
 <h2>Male to Male</h2>
 <h3>
   <br>Target singer: 
@@ -94,7 +94,7 @@
 </h3>
 </div> 
 
-<h1>Unseen singer</h1>
+<h1>Unseen singer conversion</h1>
 <h2>Male to Male</h2>
 <h3>
   <br>Target singer: 
