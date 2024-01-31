@@ -9,15 +9,21 @@
 
 <br>
 <div align="center">
-<h3>  <br>speaker3: <br>
-    <audio src="https://github.com/zzftts/zzftts.github.io/raw/main/voice_conversion/sample3/8630_305213_000011_000000.wav" controls="controls"></audio>  <br>
+<h3>  <br>target singer: 
+    <audio src="https://github.com/zzftts/zzftts.github.io/raw/main/voice_conversion/sample3/8630_305213_000011_000000.wav" controls="controls"></audio>  
+    source singer: 
+    <audio src="https://github.com/zzftts/zzftts.github.io/raw/main/voice_conversion/sample3/8630_305213_000011_000000.wav" controls="controls"></audio>
     <br> converted wav: <br>
-    <audio src="https://github.com/zzftts/zzftts.github.io/raw/main/voice_conversion/sample3/convert/LJ005-0218.wav" controls="controls"></audio> 
-    <audio src="https://github.com/zzftts/zzftts.github.io/raw/main/voice_conversion/sample3/convert/LJ007-0143.wav" controls="controls"></audio> 
-    <audio src="https://github.com/zzftts/zzftts.github.io/raw/main/voice_conversion/sample3/convert/LJ008-0295.wav" controls="controls"></audio> 
-    <audio src="https://github.com/zzftts/zzftts.github.io/raw/main/voice_conversion/sample3/convert/LJ016-0027.wav" controls="controls"></audio> 
-    <audio src="https://github.com/zzftts/zzftts.github.io/raw/main/voice_conversion/sample3/convert/LJ019-0057.wav" controls="controls"></audio>
-    <audio src="https://github.com/zzftts/zzftts.github.io/raw/main/voice_conversion/sample3/convert/LJ029-0061.wav" controls="controls"></audio> 
+    FastSVC: 
+    <audio src="https://github.com/zzftts/zzftts.github.io/raw/main/voice_conversion/sample3/convert/LJ005-0218.wav" controls="controls"></audio>
+    DiffSVC:
+    <audio src="https://github.com/zzftts/zzftts.github.io/raw/main/voice_conversion/sample3/convert/LJ007-0143.wav" controls="controls"></audio>
+    So-VITS-SVC: 
+    <audio src="https://github.com/zzftts/zzftts.github.io/raw/main/voice_conversion/sample3/convert/LJ008-0295.wav" controls="controls"></audio>
+    + LDM:
+    <audio src="https://github.com/zzftts/zzftts.github.io/raw/main/voice_conversion/sample3/convert/LJ016-0027.wav" controls="controls"></audio>
+    + Singer Guidance 
+    <audio src="https://github.com/zzftts/zzftts.github.io/raw/main/voice_conversion/sample3/convert/LJ019-0057.wav" controls="controls"></audio> <br>
     <!-- <audio src="https://github.com/zzftts/zzftts.github.io/raw/main/voice_conversion/sample3/convert/LJ033-0170.wav" controls="controls"></audio> 
     <audio src="https://github.com/zzftts/zzftts.github.io/raw/main/voice_conversion/sample3/convert/LJ035-0157.wav" controls="controls"></audio> 
     <audio src="https://github.com/zzftts/zzftts.github.io/raw/main/voice_conversion/sample3/convert/LJ036-0163.wav" controls="controls"></audio> 
