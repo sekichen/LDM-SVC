@@ -15,7 +15,7 @@
 <div align="left">
 <h2>Male to Male</h2>
 <h3>
-  <br>Target singer: 
+  Target singer: 
     <audio src="samples/seen/M2M/ref/M2M-0.wav" controls="controls"></audio><br>
     Source singer: 
     <audio src="samples/seen/M2M/src/M2M-0.wav" controls="controls"></audio><br>
@@ -29,7 +29,7 @@
     + LDM:
     <audio src="samples/seen/M2M/3/M2M-0.wav" controls="controls"></audio><br>
     + Singer Guidance 
-    <audio src="samples/seen/M2M/4/M2M-0.wav" controls="controls"></audio> <br>
+    <audio src="samples/seen/M2M/4/M2M-0.wav" controls="controls"></audio> <br><br>
 </h3>
 </div> 
 
@@ -37,7 +37,7 @@
 <h2>Female to Male</h2>
 <h3>
 
-  <br>Target singer: 
+  Target singer: 
     <audio src="samples/seen/F2M/ref/F2M-0.wav" controls="controls"></audio><br>
     Source singer: 
     <audio src="samples/seen/F2M/src/F2M-0.wav" controls="controls"></audio><br>
@@ -51,14 +51,14 @@
     + LDM:
     <audio src="samples/seen/F2M/3/F2M-0.wav" controls="controls"></audio><br>
     + Singer Guidance 
-    <audio src="samples/seen/F2M/4/F2M-0.wav" controls="controls"></audio> <br>
+    <audio src="samples/seen/F2M/4/F2M-0.wav" controls="controls"></audio> <br><br>
 </h3>
 </div> 
 <div align="left">
 <h2>Female to Female</h2>
 <h3>
 
-  <br>Target singer: 
+  Target singer: 
     <audio src="samples/seen/F2F/ref/F2F-0.wav" controls="controls"></audio><br>
     Source singer: 
     <audio src="samples/seen/F2F/src/F2F-0.wav" controls="controls"></audio><br>
@@ -72,14 +72,14 @@
     + LDM:
     <audio src="samples/seen/F2F/3/F2F-0.wav" controls="controls"></audio><br>
     + Singer Guidance 
-    <audio src="samples/seen/F2F/4/F2F-0.wav" controls="controls"></audio> <br>
+    <audio src="samples/seen/F2F/4/F2F-0.wav" controls="controls"></audio> <br><br>
 </h3>
 </div> 
 <div align="left">
 <h2>Male to Female</h2>
 <h3>
 
-  <br>Target singer: 
+  Target singer: 
     <audio src="samples/seen/M2F/ref/M2F-0.wav" controls="controls"></audio><br>
     Source singer: 
     <audio src="samples/seen/M2F/src/M2F-0.wav" controls="controls"></audio><br>
@@ -93,7 +93,7 @@
     + LDM:
     <audio src="samples/seen/M2F/3/M2F-0.wav" controls="controls"></audio><br>
     + Singer Guidance 
-    <audio src="samples/seen/M2F/4/M2F-0.wav" controls="controls"></audio> <br>
+    <audio src="samples/seen/M2F/4/M2F-0.wav" controls="controls"></audio> <br><br>
 </h3>
 </div> 
 <div align="center">
@@ -102,7 +102,7 @@
 <div align="left">
 <h2>Male to Male</h2>
 <h3>
-  <br>Target singer: 
+  Target singer: 
     <audio src="samples/unseen/M2M/ref/M2M-0.wav" controls="controls"></audio><br>
     Source singer: 
     <audio src="samples/unseen/M2M/src/M2M-0.wav" controls="controls"></audio><br>
@@ -116,7 +116,7 @@
     + LDM:
     <audio src="samples/unseen/M2M/3/M2M-0.wav" controls="controls"></audio><br>
     + Singer Guidance 
-    <audio src="samples/unseen/M2M/4/M2M-0.wav" controls="controls"></audio> <br>
+    <audio src="samples/unseen/M2M/4/M2M-0.wav" controls="controls"></audio> <br><br>
 </h3>
 </div> 
 
@@ -124,7 +124,7 @@
 <h2>Female to Male</h2>
 <h3>
 
-  <br>Target singer: 
+  Target singer: 
     <audio src="samples/unseen/F2M/ref/F2M-0.wav" controls="controls"></audio><br>
     Source singer: 
     <audio src="samples/unseen/F2M/src/F2M-0.wav" controls="controls"></audio><br>
@@ -138,14 +138,14 @@
     + LDM:
     <audio src="samples/unseen/F2M/3/F2M-0.wav" controls="controls"></audio><br>
     + Singer Guidance 
-    <audio src="samples/unseen/F2M/4/F2M-0.wav" controls="controls"></audio> <br>
+    <audio src="samples/unseen/F2M/4/F2M-0.wav" controls="controls"></audio> <br><br>
 </h3>
 </div> 
 <div align="left">
 <h2>Female to Female</h2>
 <h3>
 
-  <br>Target singer: 
+  Target singer: 
     <audio src="samples/unseen/F2F/ref/F2F-0.wav" controls="controls"></audio><br>
     Source singer: 
     <audio src="samples/unseen/F2F/src/F2F-0.wav" controls="controls"></audio><br>
@@ -159,14 +159,14 @@
     + LDM:
     <audio src="samples/unseen/F2F/3/F2F-0.wav" controls="controls"></audio><br>
     + Singer Guidance 
-    <audio src="samples/unseen/F2F/4/F2F-0.wav" controls="controls"></audio> <br>
+    <audio src="samples/unseen/F2F/4/F2F-0.wav" controls="controls"></audio> <br><br>
 </h3>
 </div> 
 <div align="left">
 <h2>Male to Female</h2>
 <h3>
 
-  <br>Target singer: 
+  Target singer: 
     <audio src="samples/unseen/M2F/ref/M2F-0.wav" controls="controls"></audio><br>
     Source singer: 
     <audio src="samples/unseen/M2F/src/M2F-0.wav" controls="controls"></audio><br>
@@ -180,6 +180,6 @@
     + LDM:
     <audio src="samples/unseen/M2F/3/M2F-0.wav" controls="controls"></audio><br>
     + Singer Guidance 
-    <audio src="samples/unseen/M2F/4/M2F-0.wav" controls="controls"></audio> <br>
+    <audio src="samples/unseen/M2F/4/M2F-0.wav" controls="controls"></audio> <br><br>
 </h3>
 </div> 
