@@ -8,11 +8,11 @@
 <body>
 
 <br>
+
+<div align="center">
 <h1>Seen singer</h1>
 <h2>Male to Male</h2>
-<div align="center">
 <h3>
-
   <br>Target singer: 
     <audio src="samples/seen/M2M/ref/M2M-0.wav" controls="controls"></audio><br>
     Source singer: 
@@ -29,27 +29,10 @@
     + Singer Guidance 
     <audio src="samples/seen/M2M/4/M2M-0.wav" controls="controls"></audio> <br>
 </h3>
-<h3>
-
-  <br>Target singer: 
-    <audio src="samples/seen/M2M/ref/M2M-1.wav" controls="controls"></audio><br>
-    Source singer: 
-    <audio src="samples/seen/M2M/src/M2M-1.wav" controls="controls"></audio><br>
-    <br> Converted wav: <br>
-    FastSVC: 
-    <audio src="samples/seen/M2M/0/M2M-1.wav" controls="controls"></audio>
-    DiffSVC:
-    <audio src="samples/seen/M2M/1/M2M-1.wav" controls="controls"></audio><br>
-    So-VITS-SVC: 
-    <audio src="samples/seen/M2M/2/M2M-1.wav" controls="controls"></audio>
-    + LDM:
-    <audio src="samples/seen/M2M/3/M2M-1.wav" controls="controls"></audio><br>
-    + Singer Guidance 
-    <audio src="samples/seen/M2M/4/M2M-1.wav" controls="controls"></audio> <br>
-</h3>
 </div> 
-<h2>Female to Male</h2>
+
 <div align="center">
+<h2>Female to Male</h2>
 <h3>
 
   <br>Target singer: 
@@ -67,23 +50,5 @@
     <audio src="samples/seen/F2M/3/F2M-0.wav" controls="controls"></audio><br>
     + Singer Guidance 
     <audio src="samples/seen/F2M/4/F2M-0.wav" controls="controls"></audio> <br>
-</h3>
-<h3>
-
-  <br>Target singer: 
-    <audio src="samples/seen/F2M/ref/F2M-1.wav" controls="controls"></audio><br>
-    Source singer: 
-    <audio src="samples/seen/F2M/src/F2M-1.wav" controls="controls"></audio><br>
-    <br> Converted wav: <br>
-    FastSVC: 
-    <audio src="samples/seen/F2M/0/F2M-1.wav" controls="controls"></audio>
-    DiffSVC:
-    <audio src="samples/seen/F2M/1/F2M-1.wav" controls="controls"></audio><br>
-    So-VITS-SVC: 
-    <audio src="samples/seen/F2M/2/F2M-1.wav" controls="controls"></audio>
-    + LDM:
-    <audio src="samples/seen/F2M/3/F2M-1.wav" controls="controls"></audio><br>
-    + Singer Guidance 
-    <audio src="samples/seen/F2M/4/F2M-1.wav" controls="controls"></audio> <br>
 </h3>
 </div> 
