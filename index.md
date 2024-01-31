@@ -14,7 +14,7 @@
 </div>
 <div align="left">
 <h2>Male to Male</h2>
-<h3>
+<!-- <h3> -->
   Target singer: 
     <audio src="samples/seen/M2M/ref/M2M-3.wav" controls="controls"></audio><br>
     Source singer: 
@@ -30,7 +30,7 @@
     <audio src="samples/seen/M2M/3/M2M-3.wav" controls="controls"></audio><br>
     + Singer Guidance 
     <audio src="samples/seen/M2M/4/M2M-3.wav" controls="controls"></audio> <br><br>
-</h3>
+<!-- </h3> -->
 </div> <br><br>
 
 <div align="left">
