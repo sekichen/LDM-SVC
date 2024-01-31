@@ -10,7 +10,7 @@
 <br>
 <div align="center">
 <h3>  <br>target singer: 
-    <audio src="data2vec_layer1/LJ005-0218.wav" controls="controls"></audio><br>
+    <audio src="data2vec_layer1/LJ005-0218.wav" controls="controls"></audio>
     source singer: 
     <audio src="data2vec_layer1/LJ005-0218.wav" controls="controls"></audio><br>
     <br> converted wav: <br>
