@@ -99,7 +99,7 @@
 <div align="center">
 <h1>Zero-shot unseen singer conversion</h1>
 </div>
-<div align="center">
+<div align="left">
 <h2>Male to Male</h2>
 <h3>
   <br>Target singer: 
